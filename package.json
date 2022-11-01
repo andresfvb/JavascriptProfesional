@@ -1,0 +1,17 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Curso profesional de javascript",
+  "license": "MIT",
+  "author": "Andres Vasquez <barandicandres@gmail.com",
+  "keywords": [
+    "platzi",
+    "javascript"
+  ],
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
